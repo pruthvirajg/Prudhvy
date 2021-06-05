@@ -1,2 +1,2 @@
-# Prudhvy
-This contains my personal blog and resume.
+# Prudhvy - Pruthvi
+This contains my personal blog and resume. 
